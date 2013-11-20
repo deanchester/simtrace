@@ -9,6 +9,11 @@ Python 2.7
 PyUSB 
 Simtrace hardware available from http://bb.osmocom.org/trac/wiki/SIMtrace
 
+##
+To run just execute the python script: 
+    $ python simtrace.py
+
+
 ## Author
 Dean Chester - dean.g.chester@googlemail.com
 
