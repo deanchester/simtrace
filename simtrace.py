@@ -1,7 +1,7 @@
 '''
 simtrace - main program for the host PC
  
-(C) 2010-2011 by Harald Welte <hwelte@hmw-consulting.de>
+(C) 2010-2011 by Dean Chester <dean.g.chester@gmail.com>
  
 This program is free software; you can redistribute it and/or modify
 it under the terms of the GNU General Public License version 2 
